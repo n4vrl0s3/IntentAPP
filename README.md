@@ -10,16 +10,39 @@ To provide a practical example of how to implement and utilize Intents within an
 
 <hr><br>
 
-## Steps
+## Features
+
+- Demonstrates the use of explicit and implicit Intents
+- Simple and clean user interface
+- Easy to understand and extend
+
+<hr><br>
+
+## Technologies Used
+
+- Kotlin
+- Android Studio
+- XML for UI design
+
+<hr><br>
+
+## Steps to Run
 
 1. Clone this Repository
 
-```
+```bash
 git clone https://github.com/guanshiyin28/IntentAPP.git
 ```
 
-2. Open the project
-3. Run the project
+2. Open the project in Android Studio
+3. Build the project
+4. Run the project on an emulator or a physical device
+
+<hr><br>
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 <hr><br>
 
