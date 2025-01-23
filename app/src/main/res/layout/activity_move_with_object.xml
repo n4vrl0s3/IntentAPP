@@ -13,6 +13,7 @@
         android:id="@+id/tv_object_received"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:fontFamily="@font/montserrat_bold"
         android:text="@string/object_received"
         android:gravity="center"
         />
