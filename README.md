@@ -26,6 +26,12 @@ fun moveToAnotherPage(view: View) {
 
 <hr><br>
 
+## Releases
+
+You can find the latest releases [here](https://github.com/guanshiyin28/Volume-Balok-APP/releases).
+
+<hr><br>
+
 ## Features
 
 - Demonstrates the use of explicit and implicit Intents
