@@ -28,7 +28,7 @@ fun moveToAnotherPage(view: View) {
 
 ## Releases
 
-You can find the latest releases [here](https://github.com/guanshiyin28/Volume-Balok-APP/releases).
+You can find the latest releases [here](https://github.com/guanshiyin28/IntentAPP/releases).
 
 <hr><br>
 
