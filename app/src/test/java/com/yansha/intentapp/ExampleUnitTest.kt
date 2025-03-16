@@ -1,4 +1,4 @@
-package com.guan.intentapp
+package com.yansha.intentapp
 
 import org.junit.Test
 

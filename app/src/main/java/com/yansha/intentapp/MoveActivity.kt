@@ -1,4 +1,4 @@
-package com.guan.intentapp
+package com.yansha.intentapp
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge

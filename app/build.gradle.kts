@@ -5,15 +5,15 @@ plugins {
 }
 
 android {
-    namespace = "com.guan.intentapp"
+    namespace = "com.yansha.intentapp"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.guan.intentapp"
+        applicationId = "com.yansha.intentapp"
         minSdk = 24
         targetSdk = 35
-        versionCode = 2
-        versionName = "1.0.1"
+        versionCode = 3
+        versionName = "1.1.1"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }

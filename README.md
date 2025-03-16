@@ -26,7 +26,7 @@ fun moveToAnotherPage(view: View) {
 
 ## Releases
 
-You can find the latest releases [here](https://github.com/guanshiyin28/IntentAPP/releases).
+You can find the latest releases [here](https://github.com/n4vrl0s3/IntentAPP/releases).
 
 <hr><br>
 
@@ -52,7 +52,7 @@ You can find the latest releases [here](https://github.com/guanshiyin28/IntentAP
 2. **Clone this Repository**
 
 ```bash
-git clone https://github.com/guanshiyin28/IntentAPP.git
+git clone https://github.com/n4vrl0s3/IntentAPP.git
 ```
 
 3. **Open the project in Android Studio**
@@ -73,7 +73,7 @@ This project is licensed under the Apache-2.0 License. See the [LICENSE](LICENSE
 <hr><br>
 
 <div align="center">
-   <a href="https://www.instagram.com/guanshiyin_/">
+   <a href="https://www.instagram.com/n4vrl0s3/">
       <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=100:393E46,20:F7F7F7&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
    </a>
 </div>

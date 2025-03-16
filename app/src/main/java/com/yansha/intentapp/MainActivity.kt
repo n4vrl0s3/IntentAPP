@@ -1,4 +1,4 @@
-package com.guan.intentapp
+package com.yansha.intentapp
 
 import android.content.Intent
 import android.os.Bundle
@@ -40,14 +40,14 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
             R.id.btn_move_activity_with_data -> {
                 val moveIntentWithData = Intent(this, MoveActivityWithData::class.java)
-                moveIntentWithData.putExtra(MoveActivityWithData.YOUR_NAME, "Guan")
+                moveIntentWithData.putExtra(MoveActivityWithData.YOUR_NAME, "Yansha")
                 moveIntentWithData.putExtra(MoveActivityWithData.YOUR_CLASS, "TI.23.B.2")
                 moveIntentWithData.putExtra(MoveActivityWithData.YOUR_AGE, 18)
                 startActivity(moveIntentWithData)
             }
 
             R.id.btn_move_activity_with_object -> {
-                val objectmhs = Mahasiswa("Guan", "TI.23.B.2", 18, "guanshiyinnn@gmail.com", "Java")
+                val objectmhs = Mahasiswa("Yansha", "TI.23.B.2", 18, "n4vrl0s3@gmail.com", "Java")
                 val moveIntentWithObject = Intent(this, MoveActivityWithObject::class.java)
                 moveIntentWithObject.putExtra(MoveActivityWithObject.EXTRA_MAHASISWA, objectmhs)
                 startActivity(moveIntentWithObject)
